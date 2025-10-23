@@ -3,6 +3,7 @@ Descrição:\
 Projeto para a primeira entrega da disciplina Desenvolvimento Front-End Para Web.  Este projeto contem 4 paginas html mais pasta com imagens
 
 Como usar:\
+Faça download do projeto.\
 Abra `index.html` em um navegador moderno. Para um servidor local (recomendado):\
 Ou:
 1. Com Python 3 instalado:
@@ -16,4 +17,4 @@ Estrutura
  - contato.html
  - img/ (placeholders SVG)
 
-Licença: sem licença - para uso acadêmico.
+Licença: Licença Acadêmica de Software (ASL).
