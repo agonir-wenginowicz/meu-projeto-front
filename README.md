@@ -11,8 +11,8 @@ Ou:
 
 Estrutura
  - index.html
- - sobre.html
- - voluntariado.html
+ - projetos.html
+ - cadastro.html
  - contato.html
  - img/ (placeholders SVG)
 
