@@ -4,7 +4,7 @@ Projeto para a primeira entrega da disciplina Desenvolvimento Front-End Para Web
 
 Como usar
 Abra `index.html` em um navegador moderno. Para um servidor local (recomendado):\
-Ou:\
+Ou:
 1. Com Python 3 instalado:
    python -m http.server 8000
 2. Abra http://localhost:8000
